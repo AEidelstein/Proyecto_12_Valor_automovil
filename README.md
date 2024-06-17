@@ -34,7 +34,7 @@ Observaciones:
 
 # Descripción de los datos
 
-El dataset está almacenado en el archivo /datasets/car_data.csv.
+El dataset está almacenado en el archivo /datasets/car_data.csv. -> archivo muy pesado para subirlo a GitHub.
 
 ## Características
 
